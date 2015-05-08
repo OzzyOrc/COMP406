@@ -23,68 +23,68 @@ git push -u --all origin
 
 What is free software?
 
-
+Software that's made available at not charge to people.
 
 What is open source software?
 
-
+Software that's not proprietary and therefore allows anyone to see and change the source code or even add their own code.
 
 What's the difference?
 
-
+Free software is free to an extent for users but it's still protected and copyrighted while open source goes way past these barriers.
 
 What does copyleft mean?
 
-
+idk.
 
 What does permissive mean?
 
-
+idk.
 
 What is a license? What's the difference among them?
 
-
+A license is a temporary priviledge that allows software to be proprietary and thereby protecting it from any outside force that wants to mimic or steal it. 
 
 When did open source software start?
 
-
+Around the time Bell Labs and AT&T had a falling out on their agreement and formed the creation of Unix.  So around the 1960s.
 
 What were some major accomplishments in free / open source software?
 
-
+Unix/Linux
 
 Who were the key players in free / open source software?
 
-
+A shade of people associated with the pioneering Unix and later Linux. (Linus T.)
 
 How has free / open source software development changed over the decades?
 
-
+There have been many claims by the government/NSA/politics (blah) to force the open source developers to create backdoors for them which greatly conflicts with the ethical concepts of distributing the software to users.
 
 Why do folks write open source software?
 
-
+It's a more work-related way of contributing with others to build upon software in a way which would be more restricted than just working for a company with layers of management.  This gives developers more freedom and less restriction in what they build.
 
 Who produces open source software?
 
-
+Anyone and everyone on the WWW!
 
 Who pays for it?
 
-
+Any company/individual that's looking to build a similar software.
 
 Who profits from it?
 
-
+The parties that wish to use the sotware for their own needs.
 
 Who is in control of your computer?
 
-
+lol Google, NSA, Microsoft, China, Yearly Indian IRS Scammers.
 
 What do we give up when we cede control to others? What do we gain?
 
-
+The freedom to alter software in anyway you see fit. Possibly gain profit from somone who's interested in your software and wishes to buy it.
 
 Is it okay for others to decide what you can do with your computer? If so, when?
 
-
+If the computer is solely owned and purchesed by you, then it's never ok for someone to make the decision for you on what you should do with your personal product!
